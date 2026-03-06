@@ -1,0 +1,42 @@
+<!-- build 20211.21.0511.0935                               -->
+<datasource
+    formatted-name='federated.daEwMRVWq8MynUt3T2wQux9vI30D'
+    inline='true'
+    version='21.3'
+    xmlns:user='http://www.tableausoftware.com/xml/user'>
+
+  <document-format-change-manifest>
+    <_.fcp.DatabricksCatalog.true...DatabricksCatalog />
+  </document-format-change-manifest>
+  <connection class='federated'>
+    <named-connections>
+      <named-connection
+          caption='dbc-4bfb31bb-ed0c.cloud.databricks.com'
+          name='databricks.daEwMRVWq8MynUt3T2wQux9vI30D'>
+        <connection
+            authentication='oauth'
+            instanceurl='https://dbc-4bfb31bb-ed0c.cloud.databricks.com/oidc'
+            server-oauth='server-custom'
+            username=''
+
+            authentication-type=''
+            class='databricks'
+            odbc-connect-string-extras=''
+            one-time-sql=''
+            _.fcp.DatabricksCatalog.false...dbname='/sql/1.0/warehouses/443b7972cad5da61'
+            _.fcp.DatabricksCatalog.true...dbname=''
+            _.fcp.DatabricksCatalog.true...v-http-path='/sql/1.0/warehouses/443b7972cad5da61'
+            schema=''
+            tableName=''
+            server='dbc-4bfb31bb-ed0c.cloud.databricks.com'>
+          <connection-customization class='databricks' enabled='false' version='21.3'>
+            <vendor name='databricks' />
+            <driver name='databricks' />
+          </connection-customization>
+        </connection>
+      </named-connection>
+    </named-connections>
+    
+  </connection>
+  
+</datasource>

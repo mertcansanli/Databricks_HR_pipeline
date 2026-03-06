@@ -1,0 +1,501 @@
+Employee ID,Employee Name,Employee Type,Gender,Function,Job Role,Age,Service Years,Organization,Location,Org Category,Site,Salary
+EMP000001,Jordan Ellis,Contract,Female,Sales,Sales Executive,58,15,RC,North Carolina,Support,On-Site,103205.55
+EMP000002,James Moses,Part-Time,Female,Marketing,Content Strategist,31,0,FS,Florida,Core,Hybrid,129446.67
+EMP000003,Terri Mcdaniel,Part-Time,Male,HR,HR Business Partner,46,11,FS,Florida,Core,On-Site,98350.3
+EMP000004,Kaitlyn Wagner,Part-Time,Male,Engineering,Data Engineer,57,12,TC,California,Support,On-Site,59899.51
+EMP000005,Kathleen Miller,Full-Time,Female,Operations,Supply Chain Analyst,30,7,RC,North Carolina,Support,On-Site,123213.83
+EMP000006,Shannon Moreno,Full-Time,Female,Operations,Supply Chain Analyst,34,13,TC,Washington,Core,On-Site,169066.55
+EMP000007,William Deleon,Contract,Other,Finance,Controller,51,27,RC,California,Core,Remote,122178.8
+EMP000008,Cindy Diaz,Full-Time,Other,HR,Recruiter,58,7,TC,Florida,Support,On-Site,154491.63
+EMP000009,Jeremy Jackson,Part-Time,Other,Marketing,SEO Manager,54,17,RC,California,Core,Remote,151856.62
+EMP000010,David Arnold,Full-Time,Male,Operations,Supply Chain Analyst,47,18,TC,North Carolina,Support,Remote,150992.42
+EMP000011,Brandi Richards,Part-Time,Male,Finance,Financial Analyst,50,23,TC,New York,Core,Hybrid,163065.35
+EMP000012,Brenda Miller,Contract,Male,Engineering,DevOps Engineer,45,2,FS,Florida,Support,Hybrid,114929.01
+EMP000013,Victoria Hurley,Contract,Female,Finance,Financial Analyst,40,6,FS,North Carolina,Core,On-Site,112607.95
+EMP000014,Sharon Parks,Part-Time,Male,Sales,Business Development Specialist,30,0,FS,Florida,Support,Remote,82411.82
+EMP000015,Anthony Rhodes,Full-Time,Female,Finance,Controller,59,15,RC,New York,Support,Hybrid,130948.18
+EMP000016,Jeffrey Perez,Part-Time,Female,Sales,Sales Executive,48,15,FS,Florida,Core,On-Site,75716.43
+EMP000017,Kenneth Keith,Full-Time,Other,Engineering,QA Engineer,51,20,FS,Washington,Core,Remote,62875.25
+EMP000018,Michelle Lopez,Part-Time,Female,Finance,Financial Analyst,43,21,TC,California,Core,Remote,157097.01
+EMP000019,Jeremiah Shah,Full-Time,Male,Finance,Controller,44,13,RC,Texas,Support,Hybrid,110278.2
+EMP000020,Thomas Roberts,Part-Time,Female,Sales,Sales Executive,57,32,FS,New York,Support,Hybrid,108396.54
+EMP000021,Jonathan Spencer,Part-Time,Other,Marketing,Content Strategist,46,2,RC,Washington,Support,Remote,117881.08
+EMP000022,Chase Howard,Full-Time,Male,Operations,Supply Chain Analyst,60,2,FS,California,Core,Remote,123851.15
+EMP000023,Rachel Everett,Part-Time,Male,Marketing,Marketing Specialist,39,14,TC,New York,Support,Remote,125261.96
+EMP000024,Joshua Brandt,Full-Time,Male,Marketing,Marketing Specialist,30,8,TC,New York,Core,Remote,124067.77
+EMP000025,Kristine Potter,Full-Time,Female,Engineering,QA Engineer,56,32,FS,California,Support,Remote,127916.11
+EMP000026,Victoria Bell,Part-Time,Male,Finance,Controller,43,9,TC,Florida,Support,Remote,137705.89
+EMP000027,Julie Morris,Contract,Male,Sales,Account Manager,30,1,FS,California,Support,Hybrid,113090.3
+EMP000028,Edward Taylor,Contract,Male,HR,Recruiter,30,7,RC,North Carolina,Core,Hybrid,69846.73
+EMP000029,Don Duarte,Contract,Other,Finance,Accountant,42,21,FS,Florida,Core,Hybrid,140564.15
+EMP000030,Maria Ramirez,Full-Time,Male,Engineering,Data Engineer,59,34,FS,California,Support,Remote,129451.57
+EMP000031,Chris Castro,Full-Time,Male,HR,Recruiter,39,0,RC,New York,Core,Remote,82434.3
+EMP000032,Timothy Walters,Part-Time,Female,HR,HR Business Partner,37,8,RC,Florida,Core,Hybrid,127358.29
+EMP000033,Alexandra Leonard,Contract,Other,Finance,Accountant,48,14,RC,California,Support,Hybrid,94062.16
+EMP000034,Juan Mosley,Part-Time,Male,Engineering,QA Engineer,32,1,RC,North Carolina,Support,Remote,100224.53
+EMP000035,Adam Byrd,Full-Time,Other,Sales,Business Development Specialist,54,28,FS,Texas,Support,Remote,118286.78
+EMP000036,Ashley Gonzalez,Contract,Other,Operations,Supply Chain Analyst,57,1,RC,Washington,Support,On-Site,127189.69
+EMP000037,Charles Jackson,Part-Time,Other,Sales,Account Manager,34,8,FS,New York,Support,Hybrid,101242.58
+EMP000038,Ryan White,Contract,Female,Sales,Business Development Specialist,33,12,RC,Washington,Core,Hybrid,86696.23
+EMP000039,Michael Jones,Full-Time,Male,Engineering,Data Engineer,25,1,RC,California,Core,Remote,106739.65
+EMP000040,Christine Whitehead,Part-Time,Other,Sales,Business Development Specialist,33,0,RC,North Carolina,Support,On-Site,133668.9
+EMP000041,Darrell Singleton,Contract,Female,HR,HR Business Partner,28,6,TC,New York,Support,On-Site,129345.23
+EMP000042,Sally Nelson,Full-Time,Female,Operations,Supply Chain Analyst,34,13,TC,Texas,Core,On-Site,85774.52
+EMP000043,Marcus Barber,Contract,Other,Sales,Business Development Specialist,59,14,TC,Washington,Support,Remote,139265.2
+EMP000044,Erica Lewis,Part-Time,Other,Sales,Account Manager,29,8,RC,North Carolina,Core,Hybrid,121800.22
+EMP000045,Vicki Wright,Contract,Female,HR,HR Business Partner,56,1,FS,New York,Support,Hybrid,105568.59
+EMP000046,Wendy Mills,Full-Time,Male,HR,Recruiter,43,2,FS,Washington,Support,Hybrid,55633.6
+EMP000047,Kelly Parker,Full-Time,Female,Engineering,QA Engineer,22,1,TC,California,Support,Remote,144871.36
+EMP000048,Mathew Arias,Full-Time,Other,HR,Recruiter,36,0,RC,Texas,Core,Hybrid,101152.18
+EMP000049,Linda Green,Part-Time,Female,Sales,Account Manager,56,28,RC,New York,Support,On-Site,98801.67
+EMP000050,Edwin Jordan,Part-Time,Male,Engineering,Data Engineer,28,5,TC,North Carolina,Core,Remote,99025.76
+EMP000051,Brian Harrell,Full-Time,Male,Sales,Sales Executive,51,27,FS,California,Core,Remote,156087.87
+EMP000052,Andrew Wilkins,Full-Time,Female,Engineering,Software Engineer,44,18,FS,New York,Core,Hybrid,146501.03
+EMP000053,Mary Brown,Full-Time,Female,Marketing,Marketing Specialist,25,3,TC,Texas,Support,Hybrid,118404.92
+EMP000054,Anita Ortiz,Full-Time,Male,Operations,Supply Chain Analyst,40,7,RC,Washington,Support,On-Site,117014.19
+EMP000055,James Parks,Full-Time,Other,Marketing,Marketing Specialist,40,8,RC,North Carolina,Support,On-Site,138354.37
+EMP000056,Patricia Stein,Full-Time,Male,Marketing,SEO Manager,36,15,FS,Washington,Support,Remote,120101.04
+EMP000057,Wayne Duran,Part-Time,Other,Marketing,SEO Manager,59,34,RC,Florida,Core,Hybrid,147894.01
+EMP000058,Jason Gonzalez,Part-Time,Female,HR,HR Generalist,47,14,TC,New York,Core,Remote,132450.84
+EMP000059,Brian Maynard,Contract,Male,HR,HR Business Partner,33,9,TC,California,Core,On-Site,132352.02
+EMP000060,Morgan Espinoza,Contract,Female,Engineering,Data Engineer,52,12,FS,Washington,Core,Remote,104539.82
+EMP000061,Johnathan Ball,Full-Time,Female,Operations,Operations Manager,35,11,TC,New York,Core,On-Site,111768.01
+EMP000062,Stephanie Riley,Full-Time,Female,Engineering,Data Engineer,32,10,FS,Texas,Support,On-Site,103863.73
+EMP000063,Heather Garrison,Full-Time,Male,Finance,Accountant,25,0,FS,Florida,Support,Hybrid,108168.15
+EMP000064,Katherine Phillips,Part-Time,Female,Finance,Controller,22,1,TC,New York,Support,Hybrid,112863.71
+EMP000065,John Weaver,Part-Time,Male,Marketing,Content Strategist,33,11,FS,New York,Support,On-Site,131373.74
+EMP000066,Lisa Adams,Contract,Other,Engineering,Data Engineer,23,1,FS,Texas,Support,Hybrid,158421.17
+EMP000067,Matthew Ramirez,Full-Time,Male,Sales,Business Development Specialist,52,31,FS,North Carolina,Core,On-Site,89783.23
+EMP000068,Robert Gonzalez,Contract,Female,Marketing,Marketing Specialist,49,28,FS,Texas,Support,Hybrid,165999.74
+EMP000069,Heather Spencer,Contract,Female,Finance,Controller,22,0,TC,Florida,Support,Remote,130215.95
+EMP000070,Thomas Jenkins,Part-Time,Female,Engineering,QA Engineer,35,1,RC,Texas,Support,Hybrid,123772.46
+EMP000071,Seth Baker,Full-Time,Female,Finance,Financial Analyst,49,9,TC,California,Support,Remote,107938.79
+EMP000072,Stephen Dunn,Full-Time,Female,Finance,Accountant,45,10,TC,Washington,Support,On-Site,80614.46
+EMP000073,Anthony Hicks,Full-Time,Female,Finance,Controller,24,2,FS,Texas,Support,Hybrid,132279.27
+EMP000074,Ashlee Price,Contract,Male,Engineering,Data Engineer,22,0,FS,North Carolina,Support,Hybrid,149298.8
+EMP000075,Jeremy Johnson,Part-Time,Female,Sales,Sales Executive,25,4,RC,California,Support,Remote,134025.85
+EMP000076,Nicole Thomas,Full-Time,Female,Operations,Process Manager,26,4,TC,New York,Core,Remote,139035.19
+EMP000077,Kristopher Reynolds,Part-Time,Male,Marketing,Marketing Specialist,52,20,RC,Washington,Core,On-Site,118682.69
+EMP000078,Mark Blankenship,Part-Time,Female,HR,Recruiter,35,8,RC,New York,Core,Remote,99377.49
+EMP000079,Steven Lopez,Part-Time,Other,Sales,Account Manager,33,6,RC,Florida,Core,Remote,95372.95
+EMP000080,Julie Moore,Full-Time,Male,Engineering,Data Engineer,55,33,FS,New York,Support,Remote,111033.02
+EMP000081,Stephanie Gonzalez,Full-Time,Other,Sales,Account Manager,26,1,FS,California,Support,On-Site,102593.84
+EMP000082,Angela Conner,Part-Time,Other,Engineering,DevOps Engineer,40,13,TC,California,Core,Remote,99938.86
+EMP000083,Marcus Li,Contract,Other,Engineering,QA Engineer,49,4,FS,California,Support,Hybrid,97434.04
+EMP000084,Kristy Hubbard,Part-Time,Other,Sales,Business Development Specialist,57,23,TC,Florida,Support,On-Site,141871.64
+EMP000085,Rebecca Hernandez,Contract,Male,Engineering,Data Engineer,26,5,FS,California,Support,Remote,66432.23
+EMP000086,Tanner Morgan,Contract,Other,HR,HR Generalist,41,14,RC,Washington,Core,On-Site,70448.11
+EMP000087,Heather Fisher,Full-Time,Female,Marketing,SEO Manager,49,17,TC,Texas,Support,Remote,95565.49
+EMP000088,Jon Rodriguez,Contract,Male,Operations,Process Manager,51,18,FS,Florida,Support,Hybrid,125275.91
+EMP000089,Michael Black,Part-Time,Female,HR,HR Business Partner,26,4,RC,New York,Support,Hybrid,111315.52
+EMP000090,Rebecca Simpson,Contract,Other,Engineering,Software Engineer,42,1,FS,Washington,Core,Hybrid,131804.95
+EMP000091,James Weaver,Contract,Female,Finance,Accountant,54,23,FS,North Carolina,Support,Remote,62698.49
+EMP000092,Dr. Matthew Daniels,Part-Time,Other,Finance,Financial Analyst,32,11,FS,Florida,Core,Remote,138053.76
+EMP000093,Kelsey Phillips,Part-Time,Female,Sales,Account Manager,29,4,RC,Washington,Core,Remote,61152.55
+EMP000094,Jodi Clark,Part-Time,Female,Sales,Sales Executive,24,0,FS,Florida,Core,Remote,90766.18
+EMP000095,Tammy Greene,Part-Time,Other,Finance,Accountant,56,16,RC,New York,Support,On-Site,96123.89
+EMP000096,Ronnie Lopez,Contract,Male,HR,HR Generalist,52,6,RC,California,Core,On-Site,133365.7
+EMP000097,Patricia Bass,Contract,Male,Operations,Supply Chain Analyst,37,7,RC,Texas,Support,Hybrid,143668.38
+EMP000098,Benjamin Fisher,Full-Time,Male,Engineering,DevOps Engineer,41,5,RC,California,Support,On-Site,120122.12
+EMP000099,Brittany George,Full-Time,Other,Operations,Operations Manager,31,5,FS,New York,Core,Hybrid,99295.42
+EMP000100,Anne Williams,Part-Time,Female,Engineering,Software Engineer,55,17,RC,Washington,Support,Hybrid,87250.2
+EMP000101,Christopher Mitchell,Part-Time,Female,Engineering,Data Engineer,52,8,TC,Washington,Support,Hybrid,65024.95
+EMP000102,Micheal Smith,Part-Time,Other,Sales,Sales Executive,58,25,FS,Florida,Support,Hybrid,57433.91
+EMP000103,Mark Barry,Contract,Female,Operations,Supply Chain Analyst,32,2,TC,Florida,Core,Hybrid,62757.92
+EMP000104,Brittany Ray,Contract,Other,Sales,Sales Executive,58,26,FS,North Carolina,Support,Remote,110226.3
+EMP000105,Shelley Richmond,Part-Time,Other,Engineering,Software Engineer,42,1,FS,New York,Support,On-Site,128664.48
+EMP000106,Lori Marsh,Part-Time,Female,Sales,Sales Executive,58,34,RC,New York,Support,Remote,114197.11
+EMP000107,Sherry Jones,Part-Time,Other,HR,HR Generalist,33,11,TC,California,Support,Remote,124482.51
+EMP000108,Jeff Kelley,Full-Time,Other,HR,Recruiter,28,5,RC,California,Support,Hybrid,71538.56
+EMP000109,Christopher Hayden,Full-Time,Female,Marketing,Marketing Specialist,53,10,FS,North Carolina,Core,Remote,108983.5
+EMP000110,Samantha Todd,Part-Time,Male,Operations,Supply Chain Analyst,27,5,TC,Washington,Support,Remote,110813.48
+EMP000111,Arthur Mclaughlin,Part-Time,Male,Marketing,Marketing Specialist,59,1,TC,California,Support,Hybrid,102708.87
+EMP000112,Lawrence Gomez,Contract,Other,HR,HR Generalist,49,12,RC,Washington,Core,Hybrid,121067.35
+EMP000113,Sara Oconnor,Full-Time,Other,Marketing,Marketing Specialist,33,1,TC,New York,Support,On-Site,103059.04
+EMP000114,Antonio Hebert,Part-Time,Other,Engineering,QA Engineer,34,1,FS,New York,Support,Hybrid,94364.69
+EMP000115,Sarah Brown,Part-Time,Female,Engineering,QA Engineer,24,1,TC,Texas,Support,Hybrid,137823.42
+EMP000116,Jennifer Cox,Contract,Male,Sales,Business Development Specialist,30,0,RC,Texas,Core,Remote,96421.29
+EMP000117,Christina Hart,Part-Time,Other,Finance,Financial Analyst,56,1,FS,North Carolina,Support,Hybrid,97219.48
+EMP000118,Bethany Mcgee,Part-Time,Male,Operations,Supply Chain Analyst,37,8,RC,Florida,Core,Remote,139090.89
+EMP000119,Kristina Stone,Full-Time,Female,Marketing,Content Strategist,32,10,RC,Washington,Support,Hybrid,85159.04
+EMP000120,Emily Jones,Part-Time,Other,Sales,Sales Executive,60,7,FS,North Carolina,Support,Remote,102967.6
+EMP000121,Daniel Davis,Full-Time,Male,Operations,Supply Chain Analyst,58,30,TC,Florida,Support,Remote,83007.97
+EMP000122,Tracy Davis,Contract,Male,Engineering,Software Engineer,54,32,TC,New York,Support,Hybrid,114975.73
+EMP000123,Nancy Baker,Full-Time,Female,HR,HR Generalist,41,16,TC,Florida,Support,Remote,83751.77
+EMP000124,Adam Silva,Contract,Female,Engineering,Data Engineer,57,17,FS,California,Core,On-Site,83658.67
+EMP000125,Alicia Jones,Part-Time,Male,Marketing,Content Strategist,36,8,RC,Texas,Core,Hybrid,98917.5
+EMP000126,Cynthia White,Contract,Male,Engineering,Data Engineer,26,3,TC,North Carolina,Support,Remote,88923.36
+EMP000127,William Young,Full-Time,Male,Marketing,Content Strategist,52,1,TC,Washington,Support,Hybrid,162737.55
+EMP000128,Scott Robbins,Full-Time,Male,Finance,Accountant,47,0,TC,Florida,Support,Remote,100514.45
+EMP000129,Tiffany Edwards,Contract,Female,Operations,Supply Chain Analyst,25,4,TC,Florida,Core,Hybrid,122426.16
+EMP000130,Nicole Young,Full-Time,Female,Sales,Account Manager,46,16,RC,California,Support,Hybrid,73811.94
+EMP000131,Robert Guerra MD,Full-Time,Male,HR,HR Business Partner,50,14,TC,Texas,Support,Remote,136700.91
+EMP000132,Renee Wagner,Full-Time,Male,Operations,Supply Chain Analyst,43,2,TC,Texas,Support,Hybrid,88309.84
+EMP000133,Nicole Rangel,Part-Time,Other,Sales,Business Development Specialist,34,9,TC,North Carolina,Support,Hybrid,81056.2
+EMP000134,Stephanie Calhoun,Part-Time,Male,Marketing,SEO Manager,38,13,RC,Washington,Core,Hybrid,140824.17
+EMP000135,Stephen Alexander,Part-Time,Female,Finance,Controller,45,17,FS,New York,Support,Remote,127148.36
+EMP000136,Scott George,Part-Time,Other,HR,HR Business Partner,47,11,TC,North Carolina,Core,Remote,127653.05
+EMP000137,Mary Wilson,Contract,Male,Marketing,SEO Manager,53,23,FS,Florida,Support,Remote,130712.33
+EMP000138,Mr. Jason Martinez DVM,Full-Time,Other,Marketing,Content Strategist,47,15,TC,North Carolina,Core,Hybrid,111307.15
+EMP000139,Ashley Mendoza,Part-Time,Other,Operations,Operations Manager,46,12,FS,California,Core,Remote,55803.47
+EMP000140,Kellie Warner,Full-Time,Female,Finance,Financial Analyst,47,9,TC,California,Core,Hybrid,144299.65
+EMP000141,Mr. Mark Pruitt,Part-Time,Male,Marketing,Marketing Specialist,30,6,RC,Florida,Support,Hybrid,107933.37
+EMP000142,Dr. James Delgado Jr.,Full-Time,Female,Operations,Operations Manager,53,5,TC,North Carolina,Core,Remote,56662.75
+EMP000143,Alexander Blanchard,Contract,Female,Sales,Business Development Specialist,54,22,TC,Washington,Support,Hybrid,110512.9
+EMP000144,Luis Torres,Contract,Male,HR,Recruiter,54,23,TC,California,Core,On-Site,116237.74
+EMP000145,Frank Wright,Contract,Other,Engineering,Software Engineer,27,0,RC,New York,Support,Remote,125212.03
+EMP000146,Kaitlyn Hall,Contract,Male,Marketing,SEO Manager,60,23,FS,Florida,Core,On-Site,159916.95
+EMP000147,Aaron Clark,Part-Time,Male,Sales,Business Development Specialist,44,10,TC,New York,Core,On-Site,112563.9
+EMP000148,Michael Andrews,Part-Time,Female,Finance,Accountant,46,10,TC,New York,Core,On-Site,108497.64
+EMP000149,Monique Mathis,Part-Time,Female,Finance,Financial Analyst,42,12,TC,Texas,Core,On-Site,144892.44
+EMP000150,Jason Hall,Contract,Other,Finance,Accountant,23,0,FS,New York,Support,Remote,81233.23
+EMP000151,Andrew Zhang,Full-Time,Male,Marketing,SEO Manager,59,38,RC,North Carolina,Support,On-Site,108277.38
+EMP000152,Angela Holland,Full-Time,Female,Operations,Process Manager,53,26,TC,North Carolina,Support,Hybrid,48710.76
+EMP000153,Dorothy Osborne,Contract,Male,Sales,Account Manager,50,5,FS,New York,Support,Remote,96470.51
+EMP000154,Michael West,Full-Time,Male,Sales,Account Manager,57,36,FS,New York,Support,Remote,85209.05
+EMP000155,Dana Hopkins,Contract,Male,Marketing,SEO Manager,41,16,TC,Florida,Support,On-Site,123723.36
+EMP000156,Crystal Harris,Full-Time,Other,Finance,Financial Analyst,42,17,RC,Washington,Support,On-Site,114376.81
+EMP000157,Joseph Johns,Contract,Female,Sales,Account Manager,36,9,TC,North Carolina,Support,Remote,91200.84
+EMP000158,Connie Heath,Part-Time,Female,Sales,Account Manager,59,36,FS,California,Core,Hybrid,124254.19
+EMP000159,Darlene Walker,Full-Time,Female,Engineering,DevOps Engineer,23,0,TC,New York,Core,Hybrid,113066.63
+EMP000160,Wendy Johnson,Contract,Other,Sales,Business Development Specialist,47,12,FS,Texas,Support,Hybrid,147576.78
+EMP000161,Rebekah Bennett,Contract,Male,Operations,Operations Manager,42,15,RC,California,Support,Remote,89355.71
+EMP000162,Elijah Acosta,Contract,Other,Sales,Business Development Specialist,43,16,RC,California,Support,On-Site,122668.46
+EMP000163,Mark Jacobs,Part-Time,Other,Finance,Financial Analyst,36,10,TC,Washington,Core,On-Site,60624.24
+EMP000164,Tyler Myers,Part-Time,Female,Finance,Accountant,60,11,TC,Washington,Support,On-Site,96106.92
+EMP000165,Madeline Schroeder,Part-Time,Female,Engineering,Data Engineer,37,4,FS,Florida,Support,Remote,89659.35
+EMP000166,Norma Rose,Part-Time,Female,HR,HR Generalist,29,7,TC,Washington,Core,Remote,136043.6
+EMP000167,Lisa Castillo,Full-Time,Other,Finance,Accountant,22,0,TC,New York,Support,Hybrid,116374.63
+EMP000168,Wesley Shaw,Part-Time,Other,Sales,Business Development Specialist,59,34,RC,California,Support,On-Site,119031.56
+EMP000169,Jordan Watkins,Contract,Male,HR,Recruiter,45,13,FS,North Carolina,Core,Hybrid,105070.93
+EMP000170,Roger Lowe,Contract,Female,Finance,Financial Analyst,29,3,FS,New York,Support,Hybrid,117342.42
+EMP000171,Evan Ramirez,Contract,Female,Marketing,Marketing Specialist,38,13,RC,North Carolina,Core,On-Site,112483.41
+EMP000172,Rhonda Patterson,Part-Time,Other,Sales,Account Manager,46,5,FS,New York,Core,Remote,70956.0
+EMP000173,Stephen Allison,Contract,Male,Marketing,SEO Manager,51,9,FS,California,Core,Hybrid,79057.17
+EMP000174,Jennifer Gutierrez,Full-Time,Male,Finance,Financial Analyst,32,4,RC,Washington,Support,Remote,89326.13
+EMP000175,Eric Rios,Full-Time,Female,Marketing,SEO Manager,28,0,FS,New York,Core,Hybrid,84474.72
+EMP000176,Donald Ramos,Contract,Male,Sales,Business Development Specialist,47,8,RC,Florida,Support,Hybrid,115928.89
+EMP000177,Robert Lee,Contract,Male,HR,HR Business Partner,60,17,TC,Texas,Core,On-Site,117917.56
+EMP000178,Jeffrey King,Contract,Female,Engineering,QA Engineer,29,3,TC,New York,Support,Remote,96525.85
+EMP000179,Alyssa Taylor,Contract,Male,Engineering,Data Engineer,25,0,TC,Washington,Core,On-Site,122333.99
+EMP000180,Brooke Nelson,Full-Time,Other,Marketing,Marketing Specialist,34,3,RC,Texas,Core,On-Site,105901.14
+EMP000181,Amy Weaver,Part-Time,Male,Finance,Controller,54,7,TC,New York,Core,Hybrid,114383.87
+EMP000182,Elizabeth Peterson,Full-Time,Male,Sales,Business Development Specialist,58,20,FS,New York,Support,Hybrid,131324.24
+EMP000183,Janice Sanford,Full-Time,Male,Operations,Process Manager,26,0,FS,North Carolina,Support,On-Site,134430.8
+EMP000184,Tanya Webb,Part-Time,Male,Marketing,Marketing Specialist,26,0,FS,Texas,Support,Remote,126263.06
+EMP000185,Jonathan Lucas,Full-Time,Other,Marketing,SEO Manager,48,23,FS,Washington,Core,On-Site,134333.09
+EMP000186,Mario Washington,Contract,Male,Operations,Supply Chain Analyst,55,3,RC,North Carolina,Core,On-Site,124051.41
+EMP000187,Jacob Mccarty,Contract,Male,Marketing,Content Strategist,35,6,FS,California,Support,On-Site,121191.75
+EMP000188,Alexis Saunders,Contract,Male,Finance,Accountant,51,19,RC,California,Core,On-Site,75570.44
+EMP000189,Aaron Weeks,Contract,Male,Sales,Business Development Specialist,46,15,RC,Texas,Core,Remote,111692.14
+EMP000190,Jessica Kelly,Full-Time,Male,Sales,Account Manager,22,1,FS,California,Core,Hybrid,100703.05
+EMP000191,Ronald Arellano,Part-Time,Male,Sales,Business Development Specialist,57,20,FS,California,Support,On-Site,113832.31
+EMP000192,Debra Pollard,Part-Time,Male,Finance,Accountant,46,14,TC,North Carolina,Support,On-Site,120789.99
+EMP000193,Stephanie Pitts MD,Full-Time,Male,Sales,Account Manager,55,26,RC,New York,Core,Remote,102001.85
+EMP000194,Holly Gould,Contract,Other,Marketing,Content Strategist,46,19,RC,Florida,Core,On-Site,93343.42
+EMP000195,Kaitlyn Powell,Full-Time,Other,Marketing,Marketing Specialist,44,23,FS,Texas,Support,Remote,109522.03
+EMP000196,Cody Hart,Contract,Other,Marketing,Marketing Specialist,28,6,TC,North Carolina,Support,Hybrid,152443.14
+EMP000197,Joseph Boone,Full-Time,Female,Sales,Account Manager,40,5,RC,Florida,Support,Hybrid,70254.96
+EMP000198,Cassandra Rojas,Contract,Other,Sales,Sales Executive,40,13,TC,Florida,Core,Remote,84844.76
+EMP000199,Melissa Larson,Full-Time,Female,Operations,Process Manager,41,9,FS,New York,Core,On-Site,75138.44
+EMP000200,Daniel Sullivan,Contract,Female,Sales,Business Development Specialist,46,13,RC,Washington,Support,Remote,123234.08
+EMP000201,Randy Green,Part-Time,Female,Finance,Financial Analyst,58,16,RC,Florida,Support,Remote,102336.93
+EMP000202,Shaun Stevens,Contract,Other,Engineering,Software Engineer,25,1,TC,Washington,Core,Hybrid,99734.55
+EMP000203,Nicole Cooper,Part-Time,Female,Sales,Business Development Specialist,60,17,FS,North Carolina,Support,On-Site,101486.61
+EMP000204,Bill Ramsey,Full-Time,Other,Engineering,DevOps Engineer,43,16,FS,North Carolina,Core,On-Site,123428.74
+EMP000205,Matthew Brown,Full-Time,Other,Finance,Financial Analyst,36,0,RC,California,Support,On-Site,77143.62
+EMP000206,Melinda Stewart,Part-Time,Other,Engineering,QA Engineer,45,20,FS,Florida,Support,Remote,110508.11
+EMP000207,Matthew Gonzalez,Full-Time,Other,Marketing,Marketing Specialist,39,7,FS,Texas,Core,On-Site,106792.89
+EMP000208,Lauren Adams,Part-Time,Other,HR,HR Generalist,24,1,FS,Texas,Support,Hybrid,83529.88
+EMP000209,David Cooper,Contract,Female,Finance,Controller,23,0,FS,Washington,Core,On-Site,96966.8
+EMP000210,David Foster,Part-Time,Female,Finance,Accountant,26,4,TC,California,Support,On-Site,122937.07
+EMP000211,Reginald White,Contract,Female,Operations,Process Manager,25,0,TC,California,Support,Hybrid,87377.7
+EMP000212,Beth Carey,Part-Time,Other,Sales,Account Manager,29,1,FS,New York,Support,Remote,90512.86
+EMP000213,Samantha Phillips,Contract,Female,Sales,Account Manager,45,13,RC,Washington,Support,On-Site,117311.74
+EMP000214,Sarah Hernandez,Contract,Other,HR,HR Generalist,23,0,FS,Florida,Core,Hybrid,91697.9
+EMP000215,Lacey Ruiz,Full-Time,Male,HR,HR Generalist,46,0,RC,California,Support,Remote,144241.16
+EMP000216,Jane Conner,Part-Time,Female,Operations,Operations Manager,30,8,RC,California,Core,Hybrid,99833.65
+EMP000217,Erica Rogers,Full-Time,Male,Marketing,Content Strategist,50,10,FS,Washington,Support,Remote,119287.41
+EMP000218,Julie Romero,Full-Time,Male,Marketing,SEO Manager,26,0,TC,New York,Support,On-Site,108042.93
+EMP000219,Christine Lambert,Full-Time,Female,Sales,Business Development Specialist,30,1,TC,Texas,Support,Hybrid,123772.16
+EMP000220,Andrea Chapman,Contract,Other,HR,Recruiter,26,4,FS,California,Core,On-Site,122633.17
+EMP000221,Marcus Browning,Contract,Female,Sales,Account Manager,32,9,RC,Washington,Core,Remote,108116.43
+EMP000222,Erin Burton,Contract,Other,Engineering,DevOps Engineer,27,4,RC,North Carolina,Support,On-Site,75781.76
+EMP000223,Mary Lester,Full-Time,Other,Finance,Accountant,29,1,TC,Texas,Support,Remote,112532.27
+EMP000224,Lindsey Robbins,Contract,Other,Marketing,Content Strategist,50,19,RC,New York,Support,On-Site,80934.97
+EMP000225,John Lara,Part-Time,Other,Sales,Business Development Specialist,25,4,RC,Washington,Support,On-Site,100562.15
+EMP000226,Kevin Santiago,Full-Time,Male,HR,HR Business Partner,58,36,TC,Texas,Core,Remote,116813.04
+EMP000227,Angel Barber,Contract,Male,Marketing,SEO Manager,30,4,RC,Florida,Core,Hybrid,103377.21
+EMP000228,Austin Diaz,Contract,Other,Sales,Account Manager,48,10,FS,North Carolina,Core,Hybrid,131431.36
+EMP000229,Natalie Best,Contract,Female,Finance,Accountant,26,3,TC,Texas,Support,Remote,111998.09
+EMP000230,Danny Kelly,Full-Time,Female,HR,HR Generalist,42,13,FS,New York,Core,Hybrid,124381.31
+EMP000231,Kristen Davis,Contract,Other,HR,HR Business Partner,28,5,FS,Texas,Support,Remote,45000.0
+EMP000232,Cory Mejia,Part-Time,Other,Engineering,Software Engineer,40,2,TC,Washington,Core,Hybrid,79383.39
+EMP000233,Amanda Carroll,Part-Time,Female,Operations,Process Manager,53,32,RC,Florida,Support,Hybrid,131633.87
+EMP000234,Stephanie Rogers,Part-Time,Female,HR,HR Business Partner,41,16,RC,California,Core,On-Site,83145.33
+EMP000235,Rachel Morrison,Part-Time,Other,Engineering,Software Engineer,49,19,TC,New York,Core,On-Site,95901.82
+EMP000236,Brandon Mitchell,Full-Time,Other,Sales,Account Manager,57,34,RC,Texas,Core,Remote,53080.75
+EMP000237,Ian Schwartz,Contract,Female,Engineering,QA Engineer,57,2,FS,Washington,Support,Remote,87520.14
+EMP000238,Andrea Duncan,Part-Time,Male,Sales,Sales Executive,27,0,RC,California,Support,Remote,108235.91
+EMP000239,Patrick Phelps,Full-Time,Male,Sales,Business Development Specialist,53,21,RC,California,Core,On-Site,83176.72
+EMP000240,Yesenia Edwards,Contract,Male,Operations,Operations Manager,50,20,TC,New York,Support,Hybrid,128815.89
+EMP000241,Joseph Wright,Full-Time,Female,Operations,Process Manager,29,8,FS,Washington,Support,On-Site,92582.71
+EMP000242,Destiny Taylor,Contract,Other,Engineering,DevOps Engineer,35,12,RC,Florida,Support,Remote,99459.98
+EMP000243,Dawn Pratt,Contract,Other,Engineering,QA Engineer,40,11,TC,Washington,Support,Hybrid,95536.33
+EMP000244,Shelley Wallace,Contract,Female,HR,Recruiter,51,13,RC,California,Core,Hybrid,109728.59
+EMP000245,Matthew Smith,Contract,Male,Sales,Account Manager,53,12,TC,Washington,Support,Remote,163414.07
+EMP000246,Rebecca Woods,Part-Time,Male,HR,HR Generalist,41,2,TC,Washington,Core,Hybrid,96818.49
+EMP000247,Phillip Dunn,Part-Time,Male,Operations,Supply Chain Analyst,59,34,FS,Texas,Support,On-Site,115764.39
+EMP000248,Richard Marshall,Part-Time,Male,Finance,Accountant,60,31,FS,Washington,Support,On-Site,78904.24
+EMP000249,Claudia Reese,Contract,Male,Engineering,Data Engineer,26,1,RC,California,Support,Remote,113827.07
+EMP000250,Jose Coleman,Part-Time,Other,Operations,Supply Chain Analyst,55,32,TC,Texas,Support,Remote,131196.12
+EMP000251,Danielle Watson,Full-Time,Male,Operations,Supply Chain Analyst,48,8,FS,North Carolina,Support,On-Site,135746.74
+EMP000252,Mr. Lee Norton III,Full-Time,Female,Finance,Controller,42,0,FS,New York,Support,On-Site,183288.9
+EMP000253,Amber Hancock,Contract,Other,Operations,Operations Manager,55,4,TC,Texas,Core,Remote,94996.62
+EMP000254,John Bruce,Part-Time,Other,Operations,Supply Chain Analyst,43,3,RC,California,Core,Remote,109966.64
+EMP000255,Roy Ruiz,Full-Time,Male,Engineering,QA Engineer,57,2,TC,California,Support,On-Site,98354.79
+EMP000256,Norma Smith,Part-Time,Other,Finance,Accountant,24,1,FS,New York,Core,On-Site,108567.74
+EMP000257,Jeremy Patterson,Contract,Male,HR,HR Generalist,50,5,FS,Florida,Core,Hybrid,136557.9
+EMP000258,Matthew Sanchez,Part-Time,Other,Finance,Financial Analyst,42,1,TC,New York,Core,Remote,98878.86
+EMP000259,Brent Hansen,Part-Time,Male,Marketing,Marketing Specialist,32,11,FS,Texas,Support,On-Site,97302.77
+EMP000260,Joshua Swanson,Contract,Other,Sales,Account Manager,53,32,FS,New York,Support,Remote,60751.33
+EMP000261,Robert Davis,Part-Time,Male,Operations,Process Manager,28,0,TC,New York,Support,Remote,99673.15
+EMP000262,Melissa Kim,Contract,Other,Sales,Business Development Specialist,52,22,TC,Washington,Support,On-Site,126040.19
+EMP000263,Michael Anderson,Full-Time,Female,Operations,Operations Manager,48,9,RC,Washington,Core,On-Site,115379.82
+EMP000264,Patricia Graham,Part-Time,Female,Finance,Accountant,52,17,TC,Florida,Core,On-Site,89221.43
+EMP000265,Benjamin Lopez,Contract,Female,Engineering,QA Engineer,30,9,TC,Washington,Support,On-Site,122314.33
+EMP000266,Kelly Johnson MD,Contract,Other,Finance,Controller,23,2,RC,North Carolina,Core,Hybrid,106788.13
+EMP000267,Robin Giles,Part-Time,Female,Engineering,Data Engineer,36,13,FS,Texas,Core,Remote,79438.91
+EMP000268,Dr. Raymond Henderson Jr.,Part-Time,Male,Engineering,Software Engineer,44,12,TC,North Carolina,Core,Hybrid,73002.1
+EMP000269,Joshua Green,Part-Time,Male,Engineering,QA Engineer,39,9,RC,California,Support,Hybrid,105681.35
+EMP000270,Mary Moore,Full-Time,Male,Engineering,QA Engineer,57,10,RC,Texas,Support,On-Site,120378.57
+EMP000271,Jennifer Simmons,Full-Time,Other,HR,HR Generalist,28,4,RC,Washington,Support,On-Site,125055.5
+EMP000272,Cody Rogers,Part-Time,Other,Marketing,Content Strategist,42,16,FS,Washington,Support,Hybrid,145008.8
+EMP000273,Steven Wilson,Contract,Male,Finance,Financial Analyst,58,36,TC,Washington,Support,Hybrid,146046.01
+EMP000274,Alicia Frank,Contract,Male,Operations,Process Manager,49,17,RC,North Carolina,Support,Remote,118540.83
+EMP000275,William Howard,Contract,Male,HR,Recruiter,48,15,RC,Florida,Core,Remote,89528.46
+EMP000276,Joshua Mcdonald,Contract,Other,HR,Recruiter,36,9,FS,New York,Support,Remote,110881.93
+EMP000277,Jordan Cruz,Part-Time,Male,Sales,Account Manager,56,22,RC,California,Support,Hybrid,138237.16
+EMP000278,Jessica Baker,Full-Time,Female,Operations,Operations Manager,53,30,RC,Washington,Core,Hybrid,122336.96
+EMP000279,Cheryl Frazier,Part-Time,Male,Operations,Supply Chain Analyst,46,24,RC,Washington,Support,Remote,115421.28
+EMP000280,Todd Nolan,Contract,Female,Marketing,Content Strategist,35,13,RC,Washington,Support,Remote,45000.0
+EMP000281,Sarah Marshall,Full-Time,Female,Operations,Process Manager,46,13,FS,North Carolina,Core,Remote,150888.31
+EMP000282,Mitchell Bell,Full-Time,Female,Sales,Account Manager,60,28,TC,New York,Support,Remote,138042.31
+EMP000283,Nicole Moody,Contract,Other,HR,HR Generalist,24,1,RC,Texas,Support,Remote,142069.74
+EMP000284,Brittany Lopez,Contract,Male,HR,Recruiter,50,10,RC,Texas,Core,On-Site,113005.94
+EMP000285,Brittany Oliver,Contract,Other,Operations,Process Manager,56,31,TC,California,Support,On-Site,121599.74
+EMP000286,Amanda Villegas,Contract,Other,Operations,Operations Manager,42,9,RC,Florida,Core,Hybrid,135573.07
+EMP000287,Keith Smith,Part-Time,Other,Engineering,DevOps Engineer,30,2,TC,New York,Core,Hybrid,96631.59
+EMP000288,Charles Moss,Part-Time,Other,HR,HR Generalist,50,5,FS,Florida,Support,Hybrid,114658.38
+EMP000289,Eugene Hinton,Full-Time,Male,Finance,Controller,38,6,FS,Florida,Core,On-Site,87990.48
+EMP000290,Jennifer Davis,Contract,Female,Marketing,Content Strategist,23,0,FS,California,Support,On-Site,87035.28
+EMP000291,Alfred Yoder,Full-Time,Other,Finance,Financial Analyst,39,13,TC,North Carolina,Support,Hybrid,143104.95
+EMP000292,Cody Murray,Contract,Male,Operations,Process Manager,57,18,FS,Florida,Core,On-Site,120497.18
+EMP000293,Susan Pruitt,Contract,Female,Finance,Financial Analyst,33,3,RC,New York,Support,Hybrid,93726.81
+EMP000294,James Thompson,Part-Time,Female,Marketing,SEO Manager,49,14,FS,Washington,Support,Remote,113028.66
+EMP000295,Joshua Chan,Contract,Other,Marketing,SEO Manager,47,22,RC,New York,Support,Remote,105403.7
+EMP000296,Ryan Clark,Full-Time,Other,HR,HR Business Partner,49,28,FS,California,Core,On-Site,97641.44
+EMP000297,Joseph Tucker,Part-Time,Other,HR,HR Generalist,59,25,RC,California,Core,Hybrid,122137.64
+EMP000298,Shaun Hebert,Part-Time,Male,Sales,Business Development Specialist,51,22,RC,Washington,Core,Hybrid,121975.11
+EMP000299,Benjamin Edwards,Full-Time,Male,Operations,Operations Manager,30,9,TC,Texas,Core,Hybrid,91984.84
+EMP000300,Brendan Bartlett,Full-Time,Female,Marketing,Content Strategist,38,5,RC,Florida,Support,Remote,62784.17
+EMP000301,Eric Miller,Part-Time,Female,Engineering,Software Engineer,46,19,RC,Florida,Core,Remote,115512.68
+EMP000302,Kristen Gentry,Contract,Female,HR,HR Generalist,30,9,FS,North Carolina,Support,On-Site,83877.98
+EMP000303,Charles Walker,Full-Time,Male,Marketing,Marketing Specialist,59,12,FS,Washington,Core,Remote,125061.31
+EMP000304,Tiffany Newman,Contract,Female,Marketing,Marketing Specialist,33,1,TC,California,Core,On-Site,101683.88
+EMP000305,Connie Williams,Contract,Male,Engineering,DevOps Engineer,45,1,RC,North Carolina,Support,Remote,121599.43
+EMP000306,Alfred Glass,Contract,Male,Marketing,SEO Manager,56,17,TC,North Carolina,Support,Hybrid,126767.29
+EMP000307,Andrea Harvey,Contract,Male,Operations,Operations Manager,45,3,FS,Washington,Core,Remote,100916.86
+EMP000308,Robert Parker,Part-Time,Female,Engineering,Data Engineer,49,18,RC,California,Core,On-Site,62377.1
+EMP000309,Dr. Denise Mckay,Full-Time,Other,Marketing,Marketing Specialist,44,19,TC,Texas,Core,Remote,124779.16
+EMP000310,Anna Ortega,Part-Time,Female,HR,HR Business Partner,34,12,TC,North Carolina,Support,On-Site,65679.07
+EMP000311,Kathleen Ellis,Part-Time,Male,Operations,Operations Manager,52,7,TC,Washington,Support,Hybrid,91985.39
+EMP000312,Jonathan Garner,Contract,Female,Finance,Controller,23,1,RC,Washington,Support,Remote,155930.15
+EMP000313,Charles Patrick,Part-Time,Female,HR,HR Business Partner,46,8,RC,Texas,Core,Hybrid,125918.56
+EMP000314,Brandon Ford,Full-Time,Other,HR,Recruiter,35,5,FS,California,Core,Hybrid,158836.59
+EMP000315,Timothy Rivera,Contract,Male,Operations,Supply Chain Analyst,39,4,FS,Florida,Support,On-Site,147803.04
+EMP000316,Calvin Watson,Part-Time,Female,Sales,Business Development Specialist,49,12,RC,Florida,Support,On-Site,103619.11
+EMP000317,Mrs. Robin Malone,Contract,Male,HR,Recruiter,45,11,RC,California,Core,Remote,116751.59
+EMP000318,Mary Parks,Contract,Male,Operations,Process Manager,36,9,TC,New York,Core,On-Site,113070.37
+EMP000319,Tiffany Baker,Full-Time,Female,Finance,Accountant,44,19,TC,North Carolina,Core,Remote,132222.65
+EMP000320,Noah Graves,Contract,Male,Sales,Account Manager,53,16,TC,North Carolina,Core,Remote,119407.89
+EMP000321,Jonathan Patel,Contract,Female,Marketing,Marketing Specialist,41,9,FS,North Carolina,Support,Hybrid,81970.41
+EMP000322,Krista Whitaker,Full-Time,Female,Finance,Financial Analyst,57,26,TC,Texas,Support,On-Site,97320.83
+EMP000323,Frances Simmons,Contract,Other,Engineering,Data Engineer,33,8,FS,Washington,Support,Hybrid,91039.07
+EMP000324,Todd Walter,Full-Time,Male,Finance,Accountant,49,10,FS,New York,Core,Remote,107765.24
+EMP000325,Amber Cline,Part-Time,Female,Sales,Business Development Specialist,52,21,FS,New York,Support,Hybrid,123569.01
+EMP000326,Sharon Bryant,Full-Time,Male,HR,Recruiter,47,16,FS,Florida,Core,On-Site,133373.82
+EMP000327,Jonathon White,Contract,Male,Marketing,Content Strategist,30,6,FS,New York,Support,On-Site,95675.67
+EMP000328,Richard Guerrero,Part-Time,Other,Marketing,SEO Manager,28,2,TC,North Carolina,Core,Hybrid,109597.21
+EMP000329,Jason Davis,Full-Time,Female,Finance,Accountant,49,27,FS,Texas,Core,On-Site,69177.42
+EMP000330,Melanie Baker,Full-Time,Male,Operations,Supply Chain Analyst,33,10,RC,Florida,Core,Hybrid,106937.65
+EMP000331,Jeffrey Jackson,Full-Time,Female,Marketing,Marketing Specialist,50,29,RC,Florida,Core,Hybrid,123786.37
+EMP000332,Rebecca Glenn,Full-Time,Male,Marketing,SEO Manager,60,31,TC,Washington,Support,Hybrid,117248.86
+EMP000333,Monica Brown,Full-Time,Female,Sales,Sales Executive,32,1,RC,New York,Support,Remote,67304.06
+EMP000334,Joe Rodgers,Full-Time,Female,Finance,Controller,29,7,TC,Texas,Core,Remote,107604.74
+EMP000335,Rachel Neal,Part-Time,Other,Sales,Account Manager,31,4,RC,Washington,Core,Hybrid,99284.5
+EMP000336,Sandra Richmond,Full-Time,Female,HR,HR Generalist,34,4,FS,Washington,Support,Remote,158204.91
+EMP000337,Wendy Lewis,Full-Time,Other,Marketing,Content Strategist,38,14,RC,New York,Support,Hybrid,83371.82
+EMP000338,Linda Johnson,Full-Time,Male,Finance,Financial Analyst,45,14,FS,Washington,Support,On-Site,124480.83
+EMP000339,Matthew Thomas,Contract,Other,Marketing,Marketing Specialist,36,11,RC,Florida,Core,Hybrid,77466.46
+EMP000340,Dr. Antonio Lucas,Part-Time,Other,Sales,Sales Executive,29,7,RC,Florida,Core,Remote,96524.31
+EMP000341,John Alvarado,Contract,Other,Finance,Accountant,48,23,FS,New York,Core,On-Site,119069.11
+EMP000342,Marcus Reese,Full-Time,Male,Marketing,Marketing Specialist,40,0,TC,Florida,Core,Hybrid,93723.53
+EMP000343,William Martin,Full-Time,Other,Engineering,Data Engineer,39,4,FS,North Carolina,Support,On-Site,95649.94
+EMP000344,Melanie Brown,Full-Time,Other,Engineering,QA Engineer,53,4,RC,North Carolina,Support,Remote,102416.95
+EMP000345,Steven Lopez,Contract,Other,Operations,Supply Chain Analyst,33,10,RC,Florida,Core,Hybrid,89797.77
+EMP000346,Jesse Murray,Part-Time,Male,Engineering,DevOps Engineer,35,8,FS,Texas,Core,Remote,118250.37
+EMP000347,Edward Roberts,Part-Time,Other,Sales,Sales Executive,31,2,TC,Washington,Support,Remote,130234.14
+EMP000348,Christopher Duffy,Part-Time,Male,HR,Recruiter,42,18,RC,California,Support,Hybrid,117233.59
+EMP000349,Todd Brown,Part-Time,Male,Finance,Controller,43,6,RC,Washington,Support,Hybrid,64755.07
+EMP000350,Steven Morris,Contract,Female,Finance,Financial Analyst,26,3,RC,Texas,Support,On-Site,92107.47
+EMP000351,Roberta Mcdonald,Part-Time,Other,Sales,Sales Executive,33,9,FS,Florida,Core,Hybrid,162062.4
+EMP000352,Travis Reese,Full-Time,Other,HR,HR Generalist,38,8,TC,Florida,Support,Hybrid,108939.95
+EMP000353,Timothy Hobbs,Contract,Female,Marketing,Content Strategist,35,13,FS,North Carolina,Support,Hybrid,118206.27
+EMP000354,Andrew Estrada,Full-Time,Female,Finance,Controller,50,6,TC,California,Core,Hybrid,95081.67
+EMP000355,Toni Noble,Contract,Other,HR,Recruiter,24,2,TC,California,Core,On-Site,86095.71
+EMP000356,David Morales IV,Contract,Female,Sales,Business Development Specialist,37,14,TC,Washington,Core,Hybrid,135538.69
+EMP000357,Joshua Hunter,Contract,Male,Engineering,QA Engineer,50,28,RC,Washington,Core,On-Site,118973.61
+EMP000358,Levi Duncan,Full-Time,Male,Operations,Operations Manager,39,8,FS,California,Core,Remote,116008.93
+EMP000359,Tiffany Marshall,Contract,Other,Operations,Supply Chain Analyst,53,13,FS,Florida,Support,On-Site,135629.84
+EMP000360,David Nguyen,Full-Time,Female,HR,HR Business Partner,59,16,TC,Texas,Support,On-Site,100900.82
+EMP000361,Kristen Williams,Contract,Female,Marketing,Content Strategist,57,1,TC,California,Support,Hybrid,134776.19
+EMP000362,Ms. Gabrielle Smith DVM,Contract,Other,Marketing,Content Strategist,48,25,FS,North Carolina,Core,On-Site,109490.11
+EMP000363,Elizabeth Meyers,Contract,Male,Marketing,Marketing Specialist,22,1,TC,Washington,Core,Hybrid,153080.28
+EMP000364,Kimberly Nelson,Contract,Other,Finance,Accountant,52,18,RC,North Carolina,Support,Hybrid,91703.19
+EMP000365,John Thomas,Contract,Male,HR,Recruiter,37,15,TC,Florida,Support,Remote,74986.64
+EMP000366,Jack Mccormick,Contract,Male,Sales,Business Development Specialist,24,0,RC,Washington,Core,Hybrid,85501.78
+EMP000367,Jeffrey Frazier,Full-Time,Male,Engineering,DevOps Engineer,27,3,TC,Florida,Core,Hybrid,138856.04
+EMP000368,Julie Green,Contract,Female,Engineering,DevOps Engineer,59,29,FS,California,Core,Hybrid,154641.33
+EMP000369,Jose Scott,Full-Time,Female,Sales,Account Manager,37,0,FS,Washington,Core,Remote,119114.51
+EMP000370,Andrea Casey,Full-Time,Male,Finance,Controller,39,3,TC,New York,Support,On-Site,111907.69
+EMP000371,Kevin Taylor,Full-Time,Other,Operations,Supply Chain Analyst,34,12,RC,Florida,Support,On-Site,78404.11
+EMP000372,Kenneth Sanders,Part-Time,Other,HR,Recruiter,44,21,TC,Washington,Core,On-Site,125193.57
+EMP000373,Cindy Gill,Contract,Other,HR,HR Business Partner,28,3,TC,California,Support,Remote,118590.68
+EMP000374,Julie Miller,Full-Time,Other,Operations,Operations Manager,31,1,FS,Washington,Support,On-Site,143872.09
+EMP000375,Jimmy Mcguire,Contract,Male,Sales,Sales Executive,58,9,FS,Florida,Support,On-Site,160775.89
+EMP000376,Roger Hill,Contract,Male,Finance,Controller,27,6,TC,Washington,Core,Remote,129202.97
+EMP000377,Cody Parker,Contract,Other,HR,Recruiter,24,3,TC,North Carolina,Core,Remote,132474.36
+EMP000378,Joshua Anderson,Contract,Male,Finance,Controller,41,15,RC,North Carolina,Support,Hybrid,108234.97
+EMP000379,Paul Gutierrez,Part-Time,Female,Sales,Account Manager,58,6,RC,Florida,Core,Remote,119098.13
+EMP000380,Lisa Barnett,Contract,Male,Engineering,Data Engineer,32,7,TC,Washington,Support,Remote,133661.51
+EMP000381,William Martin,Part-Time,Other,Sales,Account Manager,54,12,TC,California,Core,Remote,166693.92
+EMP000382,John Harris DDS,Part-Time,Other,Operations,Operations Manager,55,26,RC,California,Core,Hybrid,127705.06
+EMP000383,Joseph Thompson,Full-Time,Female,HR,HR Generalist,58,19,FS,Washington,Support,Remote,96447.13
+EMP000384,Colin Hansen,Part-Time,Female,Operations,Operations Manager,23,0,RC,Florida,Support,Hybrid,92245.73
+EMP000385,Nathaniel Robertson,Part-Time,Other,Engineering,Data Engineer,36,0,RC,New York,Core,Hybrid,101933.4
+EMP000386,Suzanne Frederick,Part-Time,Female,Marketing,Content Strategist,58,12,RC,California,Support,Hybrid,116342.47
+EMP000387,Heidi White,Full-Time,Female,Engineering,Software Engineer,34,7,RC,Florida,Core,Hybrid,132373.41
+EMP000388,Manuel White,Part-Time,Female,Engineering,QA Engineer,59,30,FS,Texas,Support,Hybrid,110109.79
+EMP000389,Ricardo Forbes,Contract,Other,HR,HR Generalist,27,4,TC,New York,Support,Hybrid,115832.84
+EMP000390,Nathan Moore,Full-Time,Other,Sales,Sales Executive,42,7,TC,North Carolina,Core,On-Site,136537.87
+EMP000391,Leonard Ayala,Contract,Other,HR,HR Business Partner,39,10,RC,New York,Support,Remote,79392.67
+EMP000392,Charles Wright,Contract,Male,Sales,Business Development Specialist,44,7,TC,Washington,Support,Hybrid,147418.98
+EMP000393,Thomas Smith,Part-Time,Female,Marketing,SEO Manager,48,16,RC,New York,Support,On-Site,116155.49
+EMP000394,Kevin Stewart,Full-Time,Male,HR,HR Business Partner,32,9,TC,California,Core,Remote,142637.75
+EMP000395,Michael Yoder,Full-Time,Female,Sales,Account Manager,25,2,TC,Texas,Core,Remote,141912.93
+EMP000396,Dr. Michelle Schwartz,Full-Time,Female,HR,HR Business Partner,60,22,TC,California,Core,On-Site,161376.73
+EMP000397,Ryan Clark,Contract,Female,HR,Recruiter,27,2,TC,New York,Support,Remote,99155.31
+EMP000398,Judy Bonilla,Part-Time,Female,Engineering,QA Engineer,35,12,FS,North Carolina,Core,On-Site,113382.61
+EMP000399,Michael Washington,Contract,Other,Finance,Financial Analyst,31,1,FS,California,Support,On-Site,136737.34
+EMP000400,Catherine Byrd,Full-Time,Female,Sales,Account Manager,33,5,RC,California,Core,On-Site,115972.31
+EMP000401,Joshua Nolan,Part-Time,Female,Sales,Account Manager,49,19,TC,Florida,Support,Hybrid,107376.75
+EMP000402,George West,Part-Time,Female,Engineering,DevOps Engineer,55,23,TC,California,Core,Remote,113710.25
+EMP000403,Timothy Cox,Part-Time,Other,Engineering,Software Engineer,51,25,TC,North Carolina,Support,On-Site,119967.12
+EMP000404,Meredith Armstrong,Full-Time,Other,Marketing,Marketing Specialist,48,20,FS,California,Core,Hybrid,66500.87
+EMP000405,Juan Johnson,Full-Time,Female,Marketing,SEO Manager,41,12,RC,New York,Support,Remote,137976.47
+EMP000406,Aaron Holt,Part-Time,Other,Operations,Operations Manager,47,23,TC,Florida,Core,Remote,138097.53
+EMP000407,Lindsey Lopez,Full-Time,Male,Sales,Account Manager,55,3,RC,Florida,Core,On-Site,78176.94
+EMP000408,Kara Howell,Part-Time,Female,Operations,Supply Chain Analyst,43,8,FS,Washington,Support,Remote,132037.07
+EMP000409,Amanda Miller,Part-Time,Female,Sales,Business Development Specialist,25,2,FS,Florida,Support,On-Site,45000.0
+EMP000410,Julia Delgado,Full-Time,Male,Engineering,Data Engineer,22,1,FS,New York,Core,Hybrid,145655.01
+EMP000411,Angela Romero,Full-Time,Other,Operations,Operations Manager,22,0,FS,Florida,Core,On-Site,123051.4
+EMP000412,Meredith Martinez,Part-Time,Male,Operations,Process Manager,55,20,RC,North Carolina,Support,Hybrid,95974.0
+EMP000413,Angela Chen PhD,Part-Time,Male,Finance,Financial Analyst,34,2,FS,New York,Core,Remote,122965.91
+EMP000414,Ashley Cook,Contract,Male,Operations,Operations Manager,30,6,TC,California,Support,Hybrid,98931.63
+EMP000415,Dylan Watkins,Contract,Other,Operations,Process Manager,29,0,RC,Texas,Core,On-Site,122206.09
+EMP000416,Kristin Turner,Part-Time,Other,Operations,Operations Manager,48,11,RC,North Carolina,Support,Hybrid,81193.64
+EMP000417,Patrick Salazar,Full-Time,Male,HR,HR Business Partner,59,34,TC,North Carolina,Core,On-Site,124293.79
+EMP000418,Sean Kemp,Full-Time,Female,Operations,Supply Chain Analyst,44,22,FS,California,Core,On-Site,128985.06
+EMP000419,Tina Wade,Part-Time,Female,Operations,Supply Chain Analyst,23,1,RC,North Carolina,Core,Remote,100650.3
+EMP000420,Andrew Fischer,Part-Time,Female,Finance,Controller,43,5,TC,New York,Support,Hybrid,148491.54
+EMP000421,Sandra Sandoval,Part-Time,Other,Finance,Controller,46,16,FS,New York,Support,On-Site,113874.73
+EMP000422,John Peterson,Part-Time,Other,Marketing,SEO Manager,42,11,RC,New York,Core,Remote,129952.09
+EMP000423,Ivan Weaver,Part-Time,Female,Engineering,QA Engineer,59,25,RC,North Carolina,Core,On-Site,84420.92
+EMP000424,Michael Robinson,Contract,Male,Operations,Process Manager,25,1,RC,Florida,Core,Remote,158050.87
+EMP000425,Amanda Lopez,Part-Time,Other,Marketing,SEO Manager,26,1,FS,Washington,Support,On-Site,126379.79
+EMP000426,Jonathan Soto,Full-Time,Male,HR,HR Business Partner,44,2,RC,Florida,Core,Hybrid,114749.14
+EMP000427,Leslie Davis,Contract,Male,Sales,Sales Executive,56,15,RC,Washington,Core,Hybrid,106416.08
+EMP000428,Jessica Johnson,Contract,Other,Sales,Business Development Specialist,37,11,TC,New York,Core,Hybrid,128328.56
+EMP000429,Kimberly Osborne,Part-Time,Other,Finance,Controller,32,10,TC,North Carolina,Support,Hybrid,69550.43
+EMP000430,Melanie Bryant,Contract,Other,Sales,Business Development Specialist,27,4,TC,California,Support,Remote,111170.84
+EMP000431,Ronald James,Full-Time,Female,Finance,Accountant,52,24,RC,Texas,Core,Hybrid,111132.88
+EMP000432,Rebecca Wood,Contract,Other,Operations,Operations Manager,56,17,FS,North Carolina,Support,On-Site,133899.4
+EMP000433,Eric Harrington,Full-Time,Other,Marketing,Marketing Specialist,52,9,TC,Texas,Core,Remote,104544.62
+EMP000434,Pamela Yoder,Full-Time,Male,HR,Recruiter,45,13,RC,North Carolina,Core,Hybrid,134124.37
+EMP000435,Taylor Brooks,Part-Time,Male,Engineering,Software Engineer,34,4,TC,North Carolina,Support,Hybrid,109548.46
+EMP000436,Kimberly Stuart,Contract,Male,Operations,Supply Chain Analyst,24,2,RC,North Carolina,Support,On-Site,108509.06
+EMP000437,Jasmine Hayes,Contract,Other,HR,HR Business Partner,57,0,FS,North Carolina,Support,Hybrid,66964.95
+EMP000438,Jason Nguyen,Contract,Other,HR,Recruiter,52,20,RC,California,Core,Hybrid,116434.87
+EMP000439,James Jordan,Contract,Female,Sales,Business Development Specialist,25,1,RC,Washington,Support,On-Site,109282.26
+EMP000440,Heather Richmond,Part-Time,Other,Marketing,Content Strategist,36,8,RC,New York,Core,On-Site,103310.62
+EMP000441,Stephen Durham,Full-Time,Other,Finance,Financial Analyst,23,1,RC,North Carolina,Core,On-Site,78640.83
+EMP000442,Margaret Schneider,Contract,Female,HR,HR Business Partner,55,0,RC,California,Support,Remote,150127.46
+EMP000443,Jennifer Benitez,Contract,Male,Marketing,SEO Manager,51,28,RC,Florida,Core,Hybrid,77394.13
+EMP000444,Joseph Cooper,Part-Time,Female,Operations,Supply Chain Analyst,44,1,FS,North Carolina,Core,Remote,121303.17
+EMP000445,Mary Mills,Part-Time,Other,Sales,Business Development Specialist,43,12,FS,Washington,Support,Remote,117017.0
+EMP000446,Robert Cantrell,Part-Time,Male,HR,HR Business Partner,29,0,TC,Texas,Support,Remote,64058.84
+EMP000447,Ashlee Brady,Contract,Female,Engineering,Data Engineer,27,0,TC,North Carolina,Core,Remote,74443.36
+EMP000448,John Golden,Part-Time,Female,Marketing,Marketing Specialist,32,11,TC,Texas,Support,Hybrid,94670.43
+EMP000449,Katherine Goodman,Contract,Male,Operations,Process Manager,49,14,FS,Texas,Core,Remote,121528.91
+EMP000450,Karen Walters,Contract,Female,Marketing,Marketing Specialist,29,0,RC,Florida,Support,Remote,111348.3
+EMP000451,Richard Miller,Part-Time,Female,Marketing,Marketing Specialist,53,6,FS,Texas,Core,Remote,158883.28
+EMP000452,Ryan Davis,Part-Time,Female,Marketing,Marketing Specialist,39,11,FS,New York,Support,Remote,95782.91
+EMP000453,Steve Schmidt,Contract,Other,Operations,Operations Manager,33,9,TC,Florida,Support,Hybrid,133927.33
+EMP000454,Andrea Torres,Contract,Female,Finance,Accountant,47,11,RC,Texas,Core,On-Site,120584.89
+EMP000455,Joseph Mcbride,Part-Time,Male,Operations,Supply Chain Analyst,55,2,TC,Florida,Core,Hybrid,159461.46
+EMP000456,Victoria Decker,Full-Time,Female,Finance,Accountant,24,0,FS,North Carolina,Support,Hybrid,124969.97
+EMP000457,Yvonne Esparza,Contract,Other,Marketing,Content Strategist,28,7,RC,Texas,Core,Hybrid,128425.91
+EMP000458,Anthony Daniels,Part-Time,Female,Operations,Process Manager,47,17,FS,Florida,Support,Remote,110676.89
+EMP000459,Margaret Bates,Contract,Other,Operations,Process Manager,48,14,FS,New York,Core,On-Site,79005.92
+EMP000460,Kimberly Shepherd,Part-Time,Male,Operations,Supply Chain Analyst,57,19,TC,North Carolina,Core,Hybrid,102373.98
+EMP000461,David Howe,Contract,Female,Operations,Supply Chain Analyst,41,4,RC,New York,Core,Hybrid,102733.28
+EMP000462,Kristine Carson,Part-Time,Female,Marketing,SEO Manager,38,15,FS,North Carolina,Core,On-Site,120401.76
+EMP000463,Jean Grant,Part-Time,Male,Sales,Business Development Specialist,30,3,RC,California,Core,On-Site,111537.57
+EMP000464,Caitlin Williams,Part-Time,Male,Engineering,QA Engineer,40,0,TC,New York,Core,Remote,130828.66
+EMP000465,Abigail Wolf,Part-Time,Other,Engineering,QA Engineer,31,5,TC,Washington,Support,Hybrid,77483.66
+EMP000466,Matthew Parker,Full-Time,Other,Engineering,QA Engineer,27,5,TC,New York,Support,On-Site,51982.19
+EMP000467,Jacqueline Miller,Full-Time,Male,Finance,Controller,35,1,TC,Texas,Core,Hybrid,157791.87
+EMP000468,Brandy Choi,Part-Time,Female,HR,HR Business Partner,58,5,FS,Washington,Support,On-Site,72443.52
+EMP000469,Casey Peterson,Full-Time,Male,Marketing,Marketing Specialist,44,10,RC,Florida,Support,Hybrid,93171.21
+EMP000470,Jessica Davis,Part-Time,Female,Marketing,SEO Manager,26,1,RC,Washington,Core,Hybrid,163107.86
+EMP000471,Regina Reyes,Contract,Female,Operations,Process Manager,27,2,TC,New York,Core,Hybrid,63793.9
+EMP000472,Eric Livingston,Part-Time,Other,Marketing,Content Strategist,26,1,RC,California,Support,Remote,106150.62
+EMP000473,Emma Foster,Full-Time,Male,Sales,Business Development Specialist,22,0,RC,Washington,Support,Hybrid,102277.18
+EMP000474,Kaitlin Beck,Full-Time,Male,HR,Recruiter,39,16,FS,Texas,Support,Hybrid,123151.24
+EMP000475,Thomas Bullock,Part-Time,Other,Sales,Business Development Specialist,40,15,FS,Washington,Core,Remote,90596.8
+EMP000476,Angela Mejia,Full-Time,Male,Marketing,Content Strategist,49,19,RC,New York,Core,On-Site,133733.13
+EMP000477,Christopher Snow,Full-Time,Female,Engineering,Data Engineer,23,0,RC,Florida,Core,Remote,116264.18
+EMP000478,Ernest Archer,Contract,Male,Operations,Operations Manager,45,17,RC,New York,Core,Hybrid,145461.5
+EMP000479,Gina Cruz,Full-Time,Male,Sales,Sales Executive,52,20,RC,New York,Core,Remote,51032.44
+EMP000480,Tammie Clark,Contract,Other,Finance,Accountant,36,14,TC,Washington,Support,Remote,62458.27
+EMP000481,Robin Jones,Contract,Other,HR,HR Business Partner,31,1,RC,California,Core,Remote,101605.0
+EMP000482,Andrew Leonard,Part-Time,Female,Sales,Business Development Specialist,24,1,RC,Texas,Support,Remote,113537.08
+EMP000483,Stephanie Lynch,Part-Time,Other,HR,Recruiter,33,3,FS,Washington,Core,Hybrid,56344.73
+EMP000484,Jerry Martin,Full-Time,Female,Marketing,Marketing Specialist,50,23,TC,California,Support,Remote,85239.85
+EMP000485,Michael Salas,Contract,Male,Sales,Account Manager,32,1,RC,North Carolina,Support,Hybrid,129263.81
+EMP000486,Mr. Jeffrey Conrad,Full-Time,Male,Marketing,Content Strategist,57,34,TC,North Carolina,Core,Remote,146941.94
+EMP000487,Christopher Bryan,Contract,Female,Finance,Controller,41,6,RC,Florida,Core,On-Site,112286.94
+EMP000488,Jessica Martin DVM,Contract,Female,HR,Recruiter,23,2,RC,Washington,Core,On-Site,83125.82
+EMP000489,Andrew Parker,Contract,Other,Marketing,SEO Manager,24,2,RC,North Carolina,Support,Hybrid,122843.32
+EMP000490,Jane Flores,Contract,Female,Finance,Controller,41,9,RC,New York,Support,On-Site,99613.33
+EMP000491,Jennifer Vasquez,Part-Time,Female,Operations,Supply Chain Analyst,52,7,FS,North Carolina,Support,On-Site,99718.08
+EMP000492,Douglas Smith,Contract,Male,Marketing,Content Strategist,30,2,TC,New York,Core,On-Site,124926.39
+EMP000493,Dr. Tommy Perez,Part-Time,Female,Finance,Accountant,41,20,RC,New York,Core,Hybrid,112884.82
+EMP000494,Amy Hunter,Full-Time,Female,HR,HR Business Partner,23,2,RC,Florida,Support,On-Site,107639.86
+EMP000495,Darren Allen,Full-Time,Male,HR,HR Generalist,43,14,FS,California,Support,Hybrid,90494.46
+EMP000496,Michael Terry,Contract,Other,Engineering,Software Engineer,22,0,RC,North Carolina,Support,Remote,122491.3
+EMP000497,Brandon Aguilar,Full-Time,Male,Finance,Financial Analyst,30,8,FS,Texas,Support,Hybrid,66028.01
+EMP000498,Ronald Cooper,Full-Time,Female,HR,HR Generalist,30,8,RC,Florida,Core,Remote,90638.45
+EMP000499,Jeffrey Jones,Part-Time,Female,Sales,Sales Executive,38,17,TC,Texas,Core,Remote,106585.24
+EMP000500,Nicholas Cowan,Part-Time,Male,Operations,Supply Chain Analyst,59,12,RC,Florida,Support,On-Site,111569.4
